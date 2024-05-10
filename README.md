@@ -1,4 +1,4 @@
-# Week 1
+# Plotting Assignment - Week 1
 Plotting Assignment
 Tools used
 - Matplotlib
